@@ -1,4 +1,4 @@
-# 💫 Acerca de mí:
+# 🌙 Acerca de mí:
 **👋 Bienvenido a mi repositorio**<br><br>Soy desarrollador independiente enfocado en la creación de **aplicaciones móviles, plataformas web y herramientas digitales**.  <br>En este repositorio encontrarás algunos de mis proyectos, recursos y experimentos relacionados con desarrollo y tecnología.<br><br>🚀 Áreas de interés<br>- Desarrollo de aplicaciones móviles<br>- Desarrollo web<br>- Herramientas y automatización<br>- Investigación tecnológica<br><br>🛠 Tecnologías y herramientas<br>- HTML / CSS / JavaScript<br>- SQL / Bases de datos<br>- Desarrollo de apps<br>- Automatización y utilidades<br><br>📂 Proyectos<br>Aquí publico proyectos personales, pruebas técnicas y herramientas que desarrollo durante mi aprendizaje y experimentación.<br><br>📫 Contacto<br>Si deseas colaborar, sugerir mejoras o explorar algún proyecto, puedes hacerlo a través de GitHub.
 
 ## 🌐 Redes Sociales:
