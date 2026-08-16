@@ -35,7 +35,7 @@
   <table style="border-collapse: collapse; width: auto; margin: 10px 0; background: transparent;">
     <tr>
       <td style="padding: 8px 12px; border: none; vertical-align: middle; width: 40px;">
-        <img src="https://flagcdn.com/w20/es.png" width="28" height="20" style="border-radius: 3px;" alt="Español" />
+        <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/es.svg" width="32" height="24" style="border-radius: 3px;" alt="Español" />
       </td>
       <td style="padding: 8px 12px; border: none; vertical-align: middle; font-weight: bold; font-size: 15px;">
         Español
@@ -48,7 +48,7 @@
     </tr>
     <tr>
       <td style="padding: 8px 12px; border: none; vertical-align: middle; width: 40px;">
-        <img src="https://flagcdn.com/w20/us.png" width="28" height="20" style="border-radius: 3px;" alt="Inglés" />
+        <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/gb.svg" width="32" height="24" style="border-radius: 3px;" alt="Inglés" />
       </td>
       <td style="padding: 8px 12px; border: none; vertical-align: middle; font-weight: bold; font-size: 15px;">
         Inglés
@@ -61,7 +61,7 @@
     </tr>
     <tr>
       <td style="padding: 8px 12px; border: none; vertical-align: middle; width: 40px;">
-        <img src="https://flagcdn.com/w20/fr.png" width="28" height="20" style="border-radius: 3px;" alt="Francés" />
+        <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/fr.svg" width="32" height="24" style="border-radius: 3px;" alt="Francés" />
       </td>
       <td style="padding: 8px 12px; border: none; vertical-align: middle; font-weight: bold; font-size: 15px;">
         Francés
@@ -74,7 +74,7 @@
     </tr>
     <tr>
       <td style="padding: 8px 12px; border: none; vertical-align: middle; width: 40px;">
-        <img src="https://flagcdn.com/w20/th.png" width="28" height="20" style="border-radius: 3px;" alt="Tailandés" />
+        <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/th.svg" width="32" height="24" style="border-radius: 3px;" alt="Tailandés" />
       </td>
       <td style="padding: 8px 12px; border: none; vertical-align: middle; font-weight: bold; font-size: 15px;">
         Tailandés
