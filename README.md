@@ -100,6 +100,21 @@
 
 ###
 
+<h2 data-importer="text" align="left">🎯 Hobbies y Pasatiempos:</h2>
+
+###
+
+<div align="left">
+  <ul style="font-size: 16px; line-height: 2.2;">
+    <li>📚 <strong>Estudiar</strong> - Siempre aprendiendo nuevas tecnologías y conceptos.</li>
+    <li>🎵 <strong>Escuchar música</strong> - Disfruto de diversos géneros musicales para relajarme y concentrarme.</li>
+    <li>🎬 <strong>Ver películas</strong> - Amante del cine y las series, especialmente de ciencia ficción y tecnología.</li>
+    <li>💻 <strong>Practicar código</strong> - Me gusta experimentar con nuevos lenguajes y frameworks en mi tiempo libre.</li>
+  </ul>
+</div>
+
+###
+
 <h2 data-importer="text" align="left">🚀 Áreas de Interés:</h2>
 
 ###
