@@ -55,7 +55,7 @@
         <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/us.svg" width="32" height="24" style="border-radius: 3px;" alt="Inglés Americano" />
       </td>
       <td style="padding: 8px 12px; border: none; vertical-align: middle; font-weight: bold; font-size: 15px;">
-        Inglés Americano
+        Inglés
       </td>
       <td style="padding: 8px 12px; border: none; vertical-align: middle;">
         <span style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 3px 16px; border-radius: 20px; font-size: 13px; color: white; font-weight: bold; display: inline-block;">
