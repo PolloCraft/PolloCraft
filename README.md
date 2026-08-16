@@ -4,16 +4,26 @@
 
 ###
 
-<h1 data-importer="text" align="center">👋 Bienvenido a mi repositorio</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=500&lines=👋+Bienvenido+a+mi+repositorio;Deivyd+Saúl+Vidal+Ortiz;Full+Stack+Developer" alt="Typing SVG" />
+</h1>
 
 ###
 
-<h2 data-importer="text" align="left">🌙 Acerca de mí:</h2>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=DeivydVidal&label=👀+Visitas&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/DeivydVidal?label=⭐+Seguidores&style=social" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/DeivydVidal?label=✨+Estrellas&style=social" alt="GitHub stars" />
+</div>
+
+###
+
+<h2 align="left">🌙 Acerca de mí:</h2>
 
 ###
 
 <div align="left">
-  <p data-importer="text" style="font-size: 16px; line-height: 1.8;">
+  <p style="font-size: 16px; line-height: 1.8;">
     ¡Hola! Soy <strong>Deivyd Saúl Vidal Ortiz</strong>, un desarrollador apasionado por la tecnología y la innovación. 
     Me especializo en el desarrollo de aplicaciones móviles, plataformas web y herramientas digitales que 
     facilitan la vida de las personas. 🚀
@@ -32,55 +42,55 @@
 ###
 
 <div align="left">
-  <table style="border-collapse: collapse; width: auto; margin: 10px 0; background: transparent;">
+  <table style="border-collapse: collapse; width: auto; margin: 10px 0;">
     <tr>
-      <td style="padding: 8px 12px; border: none; vertical-align: middle; width: 40px;">
+      <td style="padding: 8px 12px; border: 1px solid #30363d; vertical-align: middle; width: 40px; border-radius: 4px;">
         <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/es.svg" width="32" height="24" style="border-radius: 3px;" alt="Español" />
       </td>
-      <td style="padding: 8px 12px; border: none; vertical-align: middle; font-weight: bold; font-size: 15px;">
+      <td style="padding: 8px 12px; border: 1px solid #30363d; vertical-align: middle; font-weight: bold; font-size: 15px;">
         Español
       </td>
-      <td style="padding: 8px 12px; border: none; vertical-align: middle;">
-        <span style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 3px 16px; border-radius: 20px; font-size: 13px; color: white; font-weight: bold; display: inline-block;">
+      <td style="padding: 8px 12px; border: 1px solid #30363d; vertical-align: middle;">
+        <span style="background: #2d1b3d; padding: 3px 16px; border-radius: 20px; font-size: 13px; color: #f093fb; font-weight: bold; display: inline-block; border: 1px solid #f093fb40;">
           Nativo
         </span>
       </td>
     </tr>
     <tr>
-      <td style="padding: 8px 12px; border: none; vertical-align: middle; width: 40px;">
+      <td style="padding: 8px 12px; border: 1px solid #30363d; vertical-align: middle; width: 40px;">
         <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/gb.svg" width="32" height="24" style="border-radius: 3px;" alt="Inglés" />
       </td>
-      <td style="padding: 8px 12px; border: none; vertical-align: middle; font-weight: bold; font-size: 15px;">
+      <td style="padding: 8px 12px; border: 1px solid #30363d; vertical-align: middle; font-weight: bold; font-size: 15px;">
         Inglés
       </td>
-      <td style="padding: 8px 12px; border: none; vertical-align: middle;">
-        <span style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 3px 16px; border-radius: 20px; font-size: 13px; color: white; font-weight: bold; display: inline-block;">
+      <td style="padding: 8px 12px; border: 1px solid #30363d; vertical-align: middle;">
+        <span style="background: #0d2b4a; padding: 3px 16px; border-radius: 20px; font-size: 13px; color: #4facfe; font-weight: bold; display: inline-block; border: 1px solid #4facfe40;">
           Técnico
         </span>
       </td>
     </tr>
     <tr>
-      <td style="padding: 8px 12px; border: none; vertical-align: middle; width: 40px;">
+      <td style="padding: 8px 12px; border: 1px solid #30363d; vertical-align: middle; width: 40px;">
         <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/fr.svg" width="32" height="24" style="border-radius: 3px;" alt="Francés" />
       </td>
-      <td style="padding: 8px 12px; border: none; vertical-align: middle; font-weight: bold; font-size: 15px;">
+      <td style="padding: 8px 12px; border: 1px solid #30363d; vertical-align: middle; font-weight: bold; font-size: 15px;">
         Francés
       </td>
-      <td style="padding: 8px 12px; border: none; vertical-align: middle;">
-        <span style="background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); padding: 3px 16px; border-radius: 20px; font-size: 13px; color: #2d3748; font-weight: bold; display: inline-block;">
+      <td style="padding: 8px 12px; border: 1px solid #30363d; vertical-align: middle;">
+        <span style="background: #0d2e24; padding: 3px 16px; border-radius: 20px; font-size: 13px; color: #43e97b; font-weight: bold; display: inline-block; border: 1px solid #43e97b40;">
           Intermedio
         </span>
       </td>
     </tr>
     <tr>
-      <td style="padding: 8px 12px; border: none; vertical-align: middle; width: 40px;">
+      <td style="padding: 8px 12px; border: 1px solid #30363d; vertical-align: middle; width: 40px;">
         <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/th.svg" width="32" height="24" style="border-radius: 3px;" alt="Tailandés" />
       </td>
-      <td style="padding: 8px 12px; border: none; vertical-align: middle; font-weight: bold; font-size: 15px;">
+      <td style="padding: 8px 12px; border: 1px solid #30363d; vertical-align: middle; font-weight: bold; font-size: 15px;">
         Tailandés
       </td>
-      <td style="padding: 8px 12px; border: none; vertical-align: middle;">
-        <span style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); padding: 3px 16px; border-radius: 20px; font-size: 13px; color: #2d3748; font-weight: bold; display: inline-block;">
+      <td style="padding: 8px 12px; border: 1px solid #30363d; vertical-align: middle;">
+        <span style="background: #2d1f0a; padding: 3px 16px; border-radius: 20px; font-size: 13px; color: #fa709a; font-weight: bold; display: inline-block; border: 1px solid #fa709a40;">
           Básico
         </span>
       </td>
@@ -91,7 +101,7 @@
 ###
 
 <div align="left">
-  <p data-importer="text" style="font-size: 16px; line-height: 1.8;">
+  <p style="font-size: 16px; line-height: 1.8;">
     <br>
     ❓ <strong>Objetivo actual:</strong> Consolidar mis habilidades como desarrollador full-stack y contribuir a 
     proyectos de código abierto que tengan un impacto positivo en la comunidad tecnológica.
@@ -100,12 +110,12 @@
 
 ###
 
-<h2 data-importer="text" align="left">🎯 Hobbies y Pasatiempos:</h2>
+<h2 align="left">🎯 Hobbies y Pasatiempos:</h2>
 
 ###
 
 <div align="left">
-  <ul style="font-size: 16px; line-height: 2.2;">
+  <ul style="font-size: 16px; line-height: 2.2; list-style-type: none; padding-left: 0;">
     <li>📚 <strong>Estudiar</strong> - Siempre aprendiendo nuevas tecnologías y conceptos.</li>
     <li>🎵 <strong>Escuchar música</strong> - Disfruto de diversos géneros musicales para relajarme y concentrarme.</li>
     <li>🎬 <strong>Ver películas</strong> - Amante del cine y las series, especialmente de ciencia ficción y tecnología.</li>
@@ -115,12 +125,12 @@
 
 ###
 
-<h2 data-importer="text" align="left">🚀 Áreas de Interés:</h2>
+<h2 align="left">🚀 Áreas de Interés:</h2>
 
 ###
 
 <div align="left">
-  <ul style="font-size: 16px; line-height: 2.2;">
+  <ul style="font-size: 16px; line-height: 2.2; list-style-type: none; padding-left: 0;">
     <li>📱 <strong>Desarrollo de aplicaciones móviles Android</strong></li>
     <li>🌐 <strong>Desarrollo y diseño web</strong></li>
     <li>🤖 <strong>Automatización e ingeniería IA</strong></li>
@@ -131,12 +141,12 @@
 
 ###
 
-<h2 data-importer="text" align="left">📂 Proyectos Destacados:</h2>
+<h2 align="left">📂 Proyectos Destacados:</h2>
 
 ###
 
 <div align="left">
-  <ul style="font-size: 16px; line-height: 2.2;">
+  <ul style="font-size: 16px; line-height: 2.2; list-style-type: none; padding-left: 0;">
     <li>🔹 <strong>Senati Manager</strong> - Aplicación móvil diseñada para estudiantes de SENATI que ofrece herramientas de apoyo, soporte de ayuda y conexiones con más recursos educativos.</li>
     <li>🔹 <strong>Temas Diferentes</strong> - Mi sitio web oficial donde comparto contenido variado sobre tecnología, desarrollo y temas de interés general.</li>
   </ul>
@@ -144,7 +154,7 @@
 
 ###
 
-<h2 data-importer="text" align="left">📫 Contacto y Colaboración:</h2>
+<h2 align="left">📫 Contacto y Colaboración:</h2>
 
 ###
 
@@ -157,33 +167,33 @@
 
 ###
 
-<h2 data-importer="text" align="left">🌐 Redes Sociales:</h2>
+<h2 align="left">🌐 Redes Sociales:</h2>
 
 ###
 
 <div align="center">
   <div style="display: flex; align-items: center; gap: 15px; flex-wrap: wrap; justify-content: center; padding: 10px 0;">
-    <a href="https://www.facebook.com/profile.php?id=100094099170367" target="_blank" style="transition: all 0.3s ease;">
-      <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/097d0b23dcc0d22ba7710f6c113fafd321624a79/large/filled/facebook.svg" width="45" height="45" style="border-radius: 50%;" />
+    <a href="https://www.facebook.com/profile.php?id=100094099170367" target="_blank">
+      <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/097d0b23dcc0d22ba7710f6c113fafd321624a79/large/filled/facebook.svg" width="45" height="45" style="border-radius: 50%; border: 2px solid #1877f2;" />
     </a>
-    <a href="https://www.instagram.com/pollocraft20/" target="_blank" style="transition: all 0.3s ease;">
-      <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/097d0b23dcc0d22ba7710f6c113fafd321624a79/large/filled/instagram.svg" width="45" height="45" style="border-radius: 50%;" />
+    <a href="https://www.instagram.com/pollocraft20/" target="_blank">
+      <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/097d0b23dcc0d22ba7710f6c113fafd321624a79/large/filled/instagram.svg" width="45" height="45" style="border-radius: 50%; border: 2px solid #e1306c;" />
     </a>
-    <a href="https://www.linkedin.com/in/deivyd-saul-vidal-ortiz-40756339b/" target="_blank" style="transition: all 0.3s ease;">
-      <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/097d0b23dcc0d22ba7710f6c113fafd321624a79/large/filled/linkedin.svg" width="45" height="45" style="border-radius: 50%;" />
+    <a href="https://www.linkedin.com/in/deivyd-saul-vidal-ortiz-40756339b/" target="_blank">
+      <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/097d0b23dcc0d22ba7710f6c113fafd321624a79/large/filled/linkedin.svg" width="45" height="45" style="border-radius: 50%; border: 2px solid #0a66c2;" />
     </a>
-    <a href="https://www.tiktok.com/@pollocraft20_fimf?lang=es" target="_blank" style="transition: all 0.3s ease;">
-      <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/097d0b23dcc0d22ba7710f6c113fafd321624a79/large/filled/tiktok.svg" width="45" height="45" style="border-radius: 50%;" />
+    <a href="https://www.tiktok.com/@pollocraft20_fimf?lang=es" target="_blank">
+      <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/097d0b23dcc0d22ba7710f6c113fafd321624a79/large/filled/tiktok.svg" width="45" height="45" style="border-radius: 50%; border: 2px solid #ffffff40;" />
     </a>
-    <a href="https://www.youtube.com/@PolloCraft20_FIMF" target="_blank" style="transition: all 0.3s ease;">
-      <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/097d0b23dcc0d22ba7710f6c113fafd321624a79/large/filled/youtube.svg" width="45" height="45" style="border-radius: 50%;" />
+    <a href="https://www.youtube.com/@PolloCraft20_FIMF" target="_blank">
+      <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/097d0b23dcc0d22ba7710f6c113fafd321624a79/large/filled/youtube.svg" width="45" height="45" style="border-radius: 50%; border: 2px solid #ff0000;" />
     </a>
   </div>
 </div>
 
 ###
 
-<h2 data-importer="text" align="left">💻 Mis Conocimientos:</h2>
+<h2 align="left">💻 Mis Conocimientos:</h2>
 
 ###
 
@@ -232,7 +242,7 @@
 
 ###
 
-<h2 data-importer="text" align="left">💰 Apoya mi trabajo:</h2>
+<h2 align="left">💰 Apoya mi trabajo:</h2>
 
 ###
 
