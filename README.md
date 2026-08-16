@@ -1,38 +1,56 @@
-<div data-importer="border" style="line-height: 0; margin: 0; padding: 0; display: block;">
-  <img style="width: 100%; height: auto; display: block; margin: 0; padding: 0; border: none; vertical-align: bottom;" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
+<div data-importer="border" style="line-height: 0; margin: 0; padding: 0;">
+  <img style="width: 100%; height: auto; display: block; margin: 0;" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
 </div>
 
-<h1 data-importer="text" align="center" style="margin-top: 0; padding-top: 10px;">👋 Bienvenido a mi repositorio</h1>
+###
+
+<h1 data-importer="text" align="center">👋 Bienvenido a mi repositorio</h1>
+
+###
 
 <h2 data-importer="text" align="left">🌙 Acerca de mí:</h2>
+
+###
 
 <p data-importer="text" align="left">Soy desarrollador independiente enfocado en la creación de aplicaciones móviles, plataformas web y herramientas digitales.
 
 En este repositorio comparto algunos de mis proyectos, experimentos y recursos relacionados con el desarrollo de software y la tecnología. Mi objetivo es seguir aprendiendo, probar nuevas ideas y convertirlas en soluciones útiles.</p>
 
+###
+
 <p data-importer="text" align="left">🚀 Áreas de interés<br>- Desarrollo de aplicaciones móviles<br>- Desarrollo web<br>- Herramientas y automatización<br>- Investigación tecnológica<br><br>🛠 Tecnologías y herramientas<br>- HTML / CSS / JavaScript<br>- SQL / Bases de datos<br>- Desarrollo de apps<br>- Automatización y utilidades<br><br>📂 Proyectos<br>Aquí publico proyectos personales, pruebas técnicas y herramientas que desarrollo durante mi aprendizaje y experimentación.<br><br>📫 Contacto<br>Si deseas colaborar, sugerir mejoras o explorar algún proyecto, puedes hacerlo a través de GitHub.</p>
+
+###
 
 <h2 data-importer="text" align="left">🌐 Redes Sociales:</h2>
 
+###
+
 <a href="https://www.facebook.com/profile.php?id=100094099170367" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/097d0b23dcc0d22ba7710f6c113fafd321624a79/large/filled/facebook.svg" alt="Facebook" style="width: 32px; height: 32px; margin-right: 5px;" />
+  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/097d0b23dcc0d22ba7710f6c113fafd321624a79/large/filled/facebook.svg" alt="Facebook" style="width: 32px; height: 32px;" />
 </a>
 <a href="https://www.instagram.com/pollocraft20/" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/097d0b23dcc0d22ba7710f6c113fafd321624a79/large/filled/instagram.svg" alt="Instagram" style="width: 32px; height: 32px; margin-right: 5px;" />
+  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/097d0b23dcc0d22ba7710f6c113fafd321624a79/large/filled/instagram.svg" alt="Instagram" style="width: 32px; height: 32px;" />
 </a>
 <a href="https://www.linkedin.com/in/deivyd-saul-vidal-ortiz-40756339b/" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/097d0b23dcc0d22ba7710f6c113fafd321624a79/large/filled/linkedin.svg" alt="LinkedIn" style="width: 32px; height: 32px; margin-right: 5px;" />
+  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/097d0b23dcc0d22ba7710f6c113fafd321624a79/large/filled/linkedin.svg" alt="LinkedIn" style="width: 32px; height: 32px;" />
 </a>
 <a href="https://www.tiktok.com/@pollocraft20_fimf?lang=es" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/097d0b23dcc0d22ba7710f6c113fafd321624a79/large/filled/tiktok.svg" alt="TikTok" style="width: 32px; height: 32px; margin-right: 5px;" />
+  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/097d0b23dcc0d22ba7710f6c113fafd321624a79/large/filled/tiktok.svg" alt="TikTok" style="width: 32px; height: 32px;" />
 </a>
 <a href="https://www.youtube.com/@PolloCraft20_FIMF" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/097d0b23dcc0d22ba7710f6c113fafd321624a79/large/filled/youtube.svg" alt="YouTube" style="width: 32px; height: 32px; margin-right: 5px;" />
+  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/097d0b23dcc0d22ba7710f6c113fafd321624a79/large/filled/youtube.svg" alt="YouTube" style="width: 32px; height: 32px;" />
 </a>
+
+</div>
+
+###
 
 <h2 data-importer="text" align="left">💻 Mis Conocimientos:</h2>
 
-<!-- Badges estáticos - solo imágenes sin enlaces -->
+###
+
+<!-- Los siguientes badges son solo imágenes, no redirigen a ningún enlace -->
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
@@ -60,7 +78,7 @@ En este repositorio comparto algunos de mis proyectos, experimentos y recursos r
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
 <img src="https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white" alt="Sketch Up" />
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/-TestingLibrary-%23E33332.svg?style=for-the-badge&logo=testing-library&logoColor=white" alt="Testing-Library" />
+<img src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white" alt="Testing-Library" />
 <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
 <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black" alt="Cisco" />
 <img src="https://img.shields.io/badge/codecov-%23ff0077.svg?style=for-the-badge&logo=codecov&logoColor=white" alt="CodeCov" />
@@ -74,16 +92,30 @@ En este repositorio comparto algunos de mis proyectos, experimentos y recursos r
 <img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine" alt="Godot Engine" />
 <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
 
+</div>
+
+###
+
 <h2 data-importer="text" align="left">💰 Puedes ayudarme donando:</h2>
+
+###
 
 <a href="https://www.paypal.me/deivydvidal" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" />
 </a>
 
+</div>
+
+###
+
 <div data-importer="image" align="center">
   <img data-importer="image" height="122" src="https://i.postimg.cc/t4pGYBc9/Pollo-Animado.gif" alt="Pollo Animado" />
 </div>
 
-<div data-importer="border" style="line-height: 0; margin: 0; padding: 0; display: block;">
-  <img style="width: 100%; height: auto; display: block; margin: 0; padding: 0; border: none; vertical-align: bottom;" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
+###
+
+<div data-importer="border" style="line-height: 0; margin: 0; padding: 0;">
+  <img style="width: 100%; height: auto; display: block; margin: 0;" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
 </div>
+
+###
