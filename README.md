@@ -13,51 +13,87 @@
 ###
 
 <div align="left">
-  <p data-importer="text" style="font-size: 16px; line-height: 1.6;">
+  <p data-importer="text" style="font-size: 16px; line-height: 1.8;">
     ¡Hola! Soy <strong>Deivyd Saúl Vidal Ortiz</strong>, un desarrollador apasionado por la tecnología y la innovación. 
     Me especializo en el desarrollo de aplicaciones móviles, plataformas web y herramientas digitales que 
     facilitan la vida de las personas. 🚀
     <br><br>
-    🎓 <strong>Formación:</strong> Estudiante autodidacta con experiencia en múltiples lenguajes de programación 
+    📌 <strong>Formación:</strong> Estudiante autodidacta con experiencia en múltiples lenguajes de programación 
     y frameworks modernos. Siempre estoy en constante aprendizaje para mantenerme actualizado con las últimas 
     tendencias tecnológicas.
     <br><br>
-    💡 <strong>Filosofía de trabajo:</strong> Creo en el poder del código limpio, la colaboración y la mejora continua. 
+    🔗 <strong>Filosofía de trabajo:</strong> Creo en el poder del código limpio, la colaboración y la mejora continua. 
     Cada proyecto es una oportunidad para aprender, innovar y crear soluciones que marquen la diferencia.
     <br><br>
-    🌍 <strong>Idiomas:</strong>
+    💡 <strong>Idiomas:</strong>
   </p>
 </div>
 
 ###
 
-<div align="center">
-  <div style="display: flex; align-items: center; gap: 15px; flex-wrap: wrap; justify-content: center; padding: 10px 0;">
-    <span style="display: inline-flex; align-items: center; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 8px 18px; border-radius: 25px; font-size: 15px; color: white; font-weight: bold; box-shadow: 0 2px 10px rgba(245, 87, 108, 0.3);">
-      <img src="https://flagcdn.com/w20/es.png" width="24" height="18" style="margin-right: 10px; border-radius: 3px;" alt="Español" />
-      Español - Nativo
-    </span>
-    <span style="display: inline-flex; align-items: center; background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 8px 18px; border-radius: 25px; font-size: 15px; color: white; font-weight: bold; box-shadow: 0 2px 10px rgba(79, 172, 254, 0.3);">
-      <img src="https://flagcdn.com/w20/us.png" width="24" height="18" style="margin-right: 10px; border-radius: 3px;" alt="Inglés" />
-      Inglés - Técnico
-    </span>
-    <span style="display: inline-flex; align-items: center; background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); padding: 8px 18px; border-radius: 25px; font-size: 15px; color: #2d3748; font-weight: bold; box-shadow: 0 2px 10px rgba(67, 233, 123, 0.3);">
-      <img src="https://flagcdn.com/w20/fr.png" width="24" height="18" style="margin-right: 10px; border-radius: 3px;" alt="Francés" />
-      Francés - Intermedio
-    </span>
-    <span style="display: inline-flex; align-items: center; background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); padding: 8px 18px; border-radius: 25px; font-size: 15px; color: #2d3748; font-weight: bold; box-shadow: 0 2px 10px rgba(250, 112, 154, 0.3);">
-      <img src="https://flagcdn.com/w20/th.png" width="24" height="18" style="margin-right: 10px; border-radius: 3px;" alt="Tailandés" />
-      Tailandés - Básico
-    </span>
-  </div>
+<div align="left">
+  <table style="border-collapse: collapse; width: auto; margin: 10px 0; background: transparent;">
+    <tr>
+      <td style="padding: 8px 12px; border: none; vertical-align: middle; width: 40px;">
+        <img src="https://flagcdn.com/w20/es.png" width="28" height="20" style="border-radius: 3px;" alt="Español" />
+      </td>
+      <td style="padding: 8px 12px; border: none; vertical-align: middle; font-weight: bold; font-size: 15px;">
+        Español
+      </td>
+      <td style="padding: 8px 12px; border: none; vertical-align: middle;">
+        <span style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 3px 16px; border-radius: 20px; font-size: 13px; color: white; font-weight: bold; display: inline-block;">
+          Nativo
+        </span>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 8px 12px; border: none; vertical-align: middle; width: 40px;">
+        <img src="https://flagcdn.com/w20/us.png" width="28" height="20" style="border-radius: 3px;" alt="Inglés" />
+      </td>
+      <td style="padding: 8px 12px; border: none; vertical-align: middle; font-weight: bold; font-size: 15px;">
+        Inglés
+      </td>
+      <td style="padding: 8px 12px; border: none; vertical-align: middle;">
+        <span style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 3px 16px; border-radius: 20px; font-size: 13px; color: white; font-weight: bold; display: inline-block;">
+          Técnico
+        </span>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 8px 12px; border: none; vertical-align: middle; width: 40px;">
+        <img src="https://flagcdn.com/w20/fr.png" width="28" height="20" style="border-radius: 3px;" alt="Francés" />
+      </td>
+      <td style="padding: 8px 12px; border: none; vertical-align: middle; font-weight: bold; font-size: 15px;">
+        Francés
+      </td>
+      <td style="padding: 8px 12px; border: none; vertical-align: middle;">
+        <span style="background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); padding: 3px 16px; border-radius: 20px; font-size: 13px; color: #2d3748; font-weight: bold; display: inline-block;">
+          Intermedio
+        </span>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 8px 12px; border: none; vertical-align: middle; width: 40px;">
+        <img src="https://flagcdn.com/w20/th.png" width="28" height="20" style="border-radius: 3px;" alt="Tailandés" />
+      </td>
+      <td style="padding: 8px 12px; border: none; vertical-align: middle; font-weight: bold; font-size: 15px;">
+        Tailandés
+      </td>
+      <td style="padding: 8px 12px; border: none; vertical-align: middle;">
+        <span style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); padding: 3px 16px; border-radius: 20px; font-size: 13px; color: #2d3748; font-weight: bold; display: inline-block;">
+          Básico
+        </span>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ###
 
 <div align="left">
-  <p data-importer="text" style="font-size: 16px; line-height: 1.6;">
+  <p data-importer="text" style="font-size: 16px; line-height: 1.8;">
     <br>
-    🎯 <strong>Objetivo actual:</strong> Consolidar mis habilidades como desarrollador full-stack y contribuir a 
+    ❓ <strong>Objetivo actual:</strong> Consolidar mis habilidades como desarrollador full-stack y contribuir a 
     proyectos de código abierto que tengan un impacto positivo en la comunidad tecnológica.
   </p>
 </div>
@@ -69,7 +105,7 @@
 ###
 
 <div align="left">
-  <ul style="font-size: 16px; line-height: 2;">
+  <ul style="font-size: 16px; line-height: 2.2;">
     <li>📱 <strong>Desarrollo de aplicaciones móviles Android</strong></li>
     <li>🌐 <strong>Desarrollo y diseño web</strong></li>
     <li>🤖 <strong>Automatización e ingeniería IA</strong></li>
@@ -85,7 +121,7 @@
 ###
 
 <div align="left">
-  <ul style="font-size: 16px; line-height: 2;">
+  <ul style="font-size: 16px; line-height: 2.2;">
     <li>🔹 <strong>Senati Manager</strong> - Aplicación móvil diseñada para estudiantes de SENATI que ofrece herramientas de apoyo, soporte de ayuda y conexiones con más recursos educativos.</li>
     <li>🔹 <strong>Temas Diferentes</strong> - Mi sitio web oficial donde comparto contenido variado sobre tecnología, desarrollo y temas de interés general.</li>
   </ul>
