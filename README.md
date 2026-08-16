@@ -12,7 +12,9 @@
 
 ###
 
-<p data-importer="text" align="left">Soy desarrollador independiente enfocado en la creación de aplicaciones móviles, plataformas web y herramientas digitales.<br>En este repositorio encontrarás algunos de mis proyectos, recursos y experimentos relacionados con desarrollo y tecnología.</p>
+<p data-importer="text" align="left">Soy desarrollador independiente enfocado en la creación de aplicaciones móviles, plataformas web y herramientas digitales.
+
+En este repositorio comparto algunos de mis proyectos, experimentos y recursos relacionados con el desarrollo de software y la tecnología. Mi objetivo es seguir aprendiendo, probar nuevas ideas y convertirlas en soluciones útiles.</p>
 
 ###
 
@@ -59,5 +61,7 @@
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
+
+
 
 ###
