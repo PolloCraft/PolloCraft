@@ -77,9 +77,6 @@
   <p style="font-size: 16px; line-height: 1.8;">
     💬 Si deseas colaborar en algún proyecto, sugerir mejoras o simplemente compartir ideas, no dudes en contactarme. 
     Estoy abierto a nuevas oportunidades y desafíos que me permitan crecer profesionalmente y aportar valor a la comunidad.
-    <br><br>
-    🌐 <strong>GitHub:</strong> <a href="https://github.com/PolloCraft" target="_blank">github.com/PolloCraft</a>
-  </p>
 </div>
 
 ###
