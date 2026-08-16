@@ -1,3 +1,5 @@
+[file name]: div data-importer=border.txt
+[file content begin]
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
 </div>
@@ -50,10 +52,10 @@
     </tr>
     <tr>
       <td style="padding: 8px 12px; border: none; vertical-align: middle; width: 40px;">
-        <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/gb.svg" width="32" height="24" style="border-radius: 3px;" alt="Inglés" />
+        <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/us.svg" width="32" height="24" style="border-radius: 3px;" alt="Inglés Americano" />
       </td>
       <td style="padding: 8px 12px; border: none; vertical-align: middle; font-weight: bold; font-size: 15px;">
-        Inglés
+        Inglés Americano
       </td>
       <td style="padding: 8px 12px; border: none; vertical-align: middle;">
         <span style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 3px 16px; border-radius: 20px; font-size: 13px; color: white; font-weight: bold; display: inline-block;">
@@ -255,3 +257,4 @@
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
 </div>
+[file content end]
