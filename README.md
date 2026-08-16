@@ -38,7 +38,7 @@
       Español - Nativo
     </span>
     <span style="display: inline-flex; align-items: center; background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 8px 18px; border-radius: 25px; font-size: 15px; color: white; font-weight: bold; box-shadow: 0 2px 10px rgba(79, 172, 254, 0.3);">
-      <img src="https://flagcdn.com/w20/gb.png" width="24" height="18" style="margin-right: 10px; border-radius: 3px;" alt="Inglés" />
+      <img src="https://flagcdn.com/w20/us.png" width="24" height="18" style="margin-right: 10px; border-radius: 3px;" alt="Inglés" />
       Inglés - Técnico
     </span>
     <span style="display: inline-flex; align-items: center; background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); padding: 8px 18px; border-radius: 25px; font-size: 15px; color: #2d3748; font-weight: bold; box-shadow: 0 2px 10px rgba(67, 233, 123, 0.3);">
