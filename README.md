@@ -25,25 +25,37 @@
     💡 <strong>Filosofía de trabajo:</strong> Creo en el poder del código limpio, la colaboración y la mejora continua. 
     Cada proyecto es una oportunidad para aprender, innovar y crear soluciones que marquen la diferencia.
     <br><br>
-    🌍 <strong>Idiomas:</strong><br>
-    <div style="display: flex; align-items: center; gap: 8px; flex-wrap: wrap; margin-top: 5px;">
-      <span style="display: inline-flex; align-items: center; background: #f0f0f0; padding: 4px 12px; border-radius: 20px; font-size: 14px;">
-        <img src="https://flagcdn.com/w20/es.png" width="20" height="15" style="margin-right: 8px; border-radius: 2px;" alt="Español" />
-        Español - Nativo
-      </span>
-      <span style="display: inline-flex; align-items: center; background: #f0f0f0; padding: 4px 12px; border-radius: 20px; font-size: 14px;">
-        <img src="https://flagcdn.com/w20/gb.png" width="20" height="15" style="margin-right: 8px; border-radius: 2px;" alt="Inglés" />
-        Inglés - Técnico
-      </span>
-      <span style="display: inline-flex; align-items: center; background: #f0f0f0; padding: 4px 12px; border-radius: 20px; font-size: 14px;">
-        <img src="https://flagcdn.com/w20/fr.png" width="20" height="15" style="margin-right: 8px; border-radius: 2px;" alt="Francés" />
-        Francés - Intermedio
-      </span>
-      <span style="display: inline-flex; align-items: center; background: #f0f0f0; padding: 4px 12px; border-radius: 20px; font-size: 14px;">
-        <img src="https://flagcdn.com/w20/th.png" width="20" height="15" style="margin-right: 8px; border-radius: 2px;" alt="Tailandés" />
-        Tailandés - Básico
-      </span>
-    </div>
+    🌍 <strong>Idiomas:</strong>
+  </p>
+</div>
+
+###
+
+<div align="center">
+  <div style="display: flex; align-items: center; gap: 15px; flex-wrap: wrap; justify-content: center; padding: 10px 0;">
+    <span style="display: inline-flex; align-items: center; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 8px 18px; border-radius: 25px; font-size: 15px; color: white; font-weight: bold; box-shadow: 0 2px 10px rgba(245, 87, 108, 0.3);">
+      <img src="https://flagcdn.com/w20/es.png" width="24" height="18" style="margin-right: 10px; border-radius: 3px;" alt="Español" />
+      Español - Nativo
+    </span>
+    <span style="display: inline-flex; align-items: center; background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 8px 18px; border-radius: 25px; font-size: 15px; color: white; font-weight: bold; box-shadow: 0 2px 10px rgba(79, 172, 254, 0.3);">
+      <img src="https://flagcdn.com/w20/gb.png" width="24" height="18" style="margin-right: 10px; border-radius: 3px;" alt="Inglés" />
+      Inglés - Técnico
+    </span>
+    <span style="display: inline-flex; align-items: center; background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); padding: 8px 18px; border-radius: 25px; font-size: 15px; color: #2d3748; font-weight: bold; box-shadow: 0 2px 10px rgba(67, 233, 123, 0.3);">
+      <img src="https://flagcdn.com/w20/fr.png" width="24" height="18" style="margin-right: 10px; border-radius: 3px;" alt="Francés" />
+      Francés - Intermedio
+    </span>
+    <span style="display: inline-flex; align-items: center; background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); padding: 8px 18px; border-radius: 25px; font-size: 15px; color: #2d3748; font-weight: bold; box-shadow: 0 2px 10px rgba(250, 112, 154, 0.3);">
+      <img src="https://flagcdn.com/w20/th.png" width="24" height="18" style="margin-right: 10px; border-radius: 3px;" alt="Tailandés" />
+      Tailandés - Básico
+    </span>
+  </div>
+</div>
+
+###
+
+<div align="left">
+  <p data-importer="text" style="font-size: 16px; line-height: 1.6;">
     <br>
     🎯 <strong>Objetivo actual:</strong> Consolidar mis habilidades como desarrollador full-stack y contribuir a 
     proyectos de código abierto que tengan un impacto positivo en la comunidad tecnológica.
@@ -99,21 +111,23 @@
 ###
 
 <div align="center">
-  <a href="https://www.facebook.com/profile.php?id=100094099170367" target="_blank">
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/097d0b23dcc0d22ba7710f6c113fafd321624a79/large/filled/facebook.svg" width="40" height="40" />
-  </a>
-  <a href="https://www.instagram.com/pollocraft20/" target="_blank">
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/097d0b23dcc0d22ba7710f6c113fafd321624a79/large/filled/instagram.svg" width="40" height="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/deivyd-saul-vidal-ortiz-40756339b/" target="_blank">
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/097d0b23dcc0d22ba7710f6c113fafd321624a79/large/filled/linkedin.svg" width="40" height="40" />
-  </a>
-  <a href="https://www.tiktok.com/@pollocraft20_fimf?lang=es" target="_blank">
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/097d0b23dcc0d22ba7710f6c113fafd321624a79/large/filled/tiktok.svg" width="40" height="40" />
-  </a>
-  <a href="https://www.youtube.com/@PolloCraft20_FIMF" target="_blank">
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/097d0b23dcc0d22ba7710f6c113fafd321624a79/large/filled/youtube.svg" width="40" height="40" />
-  </a>
+  <div style="display: flex; align-items: center; gap: 15px; flex-wrap: wrap; justify-content: center; padding: 10px 0;">
+    <a href="https://www.facebook.com/profile.php?id=100094099170367" target="_blank" style="transition: all 0.3s ease;">
+      <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/097d0b23dcc0d22ba7710f6c113fafd321624a79/large/filled/facebook.svg" width="45" height="45" style="border-radius: 50%;" />
+    </a>
+    <a href="https://www.instagram.com/pollocraft20/" target="_blank" style="transition: all 0.3s ease;">
+      <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/097d0b23dcc0d22ba7710f6c113fafd321624a79/large/filled/instagram.svg" width="45" height="45" style="border-radius: 50%;" />
+    </a>
+    <a href="https://www.linkedin.com/in/deivyd-saul-vidal-ortiz-40756339b/" target="_blank" style="transition: all 0.3s ease;">
+      <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/097d0b23dcc0d22ba7710f6c113fafd321624a79/large/filled/linkedin.svg" width="45" height="45" style="border-radius: 50%;" />
+    </a>
+    <a href="https://www.tiktok.com/@pollocraft20_fimf?lang=es" target="_blank" style="transition: all 0.3s ease;">
+      <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/097d0b23dcc0d22ba7710f6c113fafd321624a79/large/filled/tiktok.svg" width="45" height="45" style="border-radius: 50%;" />
+    </a>
+    <a href="https://www.youtube.com/@PolloCraft20_FIMF" target="_blank" style="transition: all 0.3s ease;">
+      <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/097d0b23dcc0d22ba7710f6c113fafd321624a79/large/filled/youtube.svg" width="45" height="45" style="border-radius: 50%;" />
+    </a>
+  </div>
 </div>
 
 ###
@@ -181,12 +195,6 @@
 
 <div align="center">
   <img height="122" src="https://i.postimg.cc/t4pGYBc9/Pollo-Animado.gif" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=PolloCraft&label=Visitas%20al%20perfil&color=667eea&style=flat-square" alt="Visitor Counter" />
 </div>
 
 ###
